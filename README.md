@@ -19,7 +19,7 @@
 
 # Project Name
 
-One Paragraph of project description goes here
+This is a template repository to assist you with creating new embedded projects for Zips Racing Electric. You will find an example MPLAB project setup for the dsPIC33 microcontrollers we use. Replace this text with a project description of your own. 
 
 ## Getting Started
 
