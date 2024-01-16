@@ -6,8 +6,9 @@
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Hardware](#hardware)
+    - [OneDrive Documentation](#onedrive-documentation)
     - [Installing](#installing)
-  - [Running the tests](#running-the-tests)
+  - [Running unit tests](#running-unit-tests)
     - [Break down into end to end tests](#break-down-into-end-to-end-tests)
     - [And coding style tests](#and-coding-style-tests)
   - [Deployment](#deployment)
@@ -19,7 +20,7 @@
 
 # Project Name
 
-This is a template repository to assist you with creating new embedded projects for Zips Racing Electric. You will find an example MPLAB project setup for the dsPIC33 microcontrollers we use. Replace this text with a project description of your own. 
+This is a template repository to assist you with creating new embedded projects for Zips Racing Electric. Please fill out this README.md doc. Replace this text with a project description of your own. 
 
 ## Getting Started
 
@@ -48,6 +49,13 @@ To compile your software and deploy it on our hardware, you will need the follow
 
 The project is setup to require external power to the board in order to program the microcontroller.
 
+### OneDrive Documentation
+- Additional hardware and system documentation for the AMS can be found on the OneDrive at **/Engineering/Subsystems/HV Systems/Documentation/AMS and High Voltage PCB**.
+  
+- Electrical documentation for the accumulator can be found at **/Engineering/Subsystems/HV Systems/Documentation/Accumulator**.
+
+- Documentation for CAN bus system can be found at **/Engineering/Subsystems/GLV Systems/Documentation/ELA0002 Wiring Harness**.
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
@@ -66,7 +74,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Running unit tests
 
 Explain how to run the automated tests for this system
 
