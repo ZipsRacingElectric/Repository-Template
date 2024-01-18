@@ -18,9 +18,10 @@
   - [Acknowledgments](#acknowledgments)
 
 
-# Project Name
+# Project
 
-This is a template repository to assist you with creating new embedded projects for Zips Racing Electric. Please fill out this README.md doc. Replace this text with a project description of your own. 
+1. This is a template repository to assist you with creating new embedded projects for Zips Racing Electric. Please fill out this README.md doc. Replace this text with a project description of your own.
+2. Make sure to update the repository description.
 
 ## Getting Started
 
